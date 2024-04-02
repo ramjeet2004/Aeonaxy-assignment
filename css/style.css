@@ -1,1 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Sacramento&display=swap");
 
+*{
+	margin: 0;
+	padding: 0ap
+	box-sizing: border-box;
+}
+
+.h-font {
+  font-family: "Sacramento", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.home-left-bg{
+	background: #f2d086;
+	color: #90674b;
+}
+.bg-deeppink{
+	background: deeppink;
+}
+.text-deeppink{
+	color: deeppink;
+}
